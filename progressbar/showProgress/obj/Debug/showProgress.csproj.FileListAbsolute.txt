@@ -1,0 +1,10 @@
+G:\csharp\progressbar\showProgress\bin\Debug\showProgress.exe.config
+G:\csharp\progressbar\showProgress\bin\Debug\showProgress.exe
+G:\csharp\progressbar\showProgress\bin\Debug\showProgress.pdb
+G:\csharp\progressbar\showProgress\obj\Debug\showProgress.csprojAssemblyReference.cache
+G:\csharp\progressbar\showProgress\obj\Debug\showProgress.Form1.resources
+G:\csharp\progressbar\showProgress\obj\Debug\showProgress.Properties.Resources.resources
+G:\csharp\progressbar\showProgress\obj\Debug\showProgress.csproj.GenerateResource.cache
+G:\csharp\progressbar\showProgress\obj\Debug\showProgress.csproj.CoreCompileInputs.cache
+G:\csharp\progressbar\showProgress\obj\Debug\showProgress.exe
+G:\csharp\progressbar\showProgress\obj\Debug\showProgress.pdb

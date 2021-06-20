@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "showProgress", "showProgress.csproj", "{C776F722-1049-4C69-9234-DA79441A888E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C776F722-1049-4C69-9234-DA79441A888E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C776F722-1049-4C69-9234-DA79441A888E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C776F722-1049-4C69-9234-DA79441A888E}.Debug|x64.ActiveCfg = Debug|x64
+		{C776F722-1049-4C69-9234-DA79441A888E}.Debug|x64.Build.0 = Debug|x64
+		{C776F722-1049-4C69-9234-DA79441A888E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C776F722-1049-4C69-9234-DA79441A888E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C776F722-1049-4C69-9234-DA79441A888E}.Release|x64.ActiveCfg = Release|x64
+		{C776F722-1049-4C69-9234-DA79441A888E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DB67460-34DD-4311-BEDF-DD0AF1A5B84E}
+	EndGlobalSection
+EndGlobal
